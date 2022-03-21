@@ -84,7 +84,7 @@ exports.likeSauceNot = async (req, res, next) => {
       } else {
         return res
           .status(400)
-          .json({ error: "The user did not give a feedback yet" });
+          .json({ error: "L'utilisatuer n'a pas donné de retour" });
       }
 
     case -1:

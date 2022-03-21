@@ -7,7 +7,6 @@ module.exports = (req, res, next) => {
             process.env.JWT_SECRET); // token secret 
             const userId = decodedToken.userId;
             if(req.body.userId && req.body.userId !== userId) {
-                console.log("hello")
                 throw 'Invalid user ID';
             } else {
                 next();
