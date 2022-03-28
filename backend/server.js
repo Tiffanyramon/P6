@@ -1,5 +1,5 @@
-const http = require('http');
-const app = require('./app');
+const http = require('http'); // importation du package de node crea
+const app = require('./app'); // importation de app.js
 //renvoie du port valide 
 const normalizePort = val => {
     const port = parseInt(val,10);
