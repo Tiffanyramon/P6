@@ -71,9 +71,9 @@ Configuration du fichier .env
 
 Crée un fichier .env à la racine du projet
 mettre les clés de chiffrement de : 
-- JWT_SECRET 
-- CRYTOJS_EMAIL 
-- MONGO_URL 
+- JWT_SECRET = ~2:^e93(kN33Es.?WUV.e5~b8M9H/+:x>HBLVX3i2!SFTm-r4wyU<7Cj2q53uz2}|5nv|y!V$_f58C269CXwP+zp3z
+- CRYTOJS_EMAIL = QJ6P98a8?J-4Qh34#)<t5*vL9S:wr,}d27Z>4j(Yp^2-TeZy8XzxmJ57xw*;KTCt22dv#UQ:SJk88=f{r9+6J9:-Jv
+- MONGO_URL = mongodb+srv://coal5:Suna1998@cluster0.cfgeo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 Crée un dossier image
 
